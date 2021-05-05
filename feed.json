@@ -1,0 +1,37 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "picnic.shagun paradise.com",
+    "description": "",
+    "home_page_url": "https://shameerpuri.github.io/picnic",
+    "feed_url": "https://shameerpuri.github.io/picnic/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "shameer"
+    },
+    "items": [
+        {
+            "id": "https://shameerpuri.github.io/picnic/packages.html",
+            "url": "https://shameerpuri.github.io/picnic/packages.html",
+            "title": "Packages",
+            "author": {
+                "name": "shameer"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-03-19T22:34:52+05:30",
+            "date_modified": "2021-03-19T22:34:52+05:30"
+        },
+        {
+            "id": "https://shameerpuri.github.io/picnic/sites.html",
+            "url": "https://shameerpuri.github.io/picnic/sites.html",
+            "title": "Sites",
+            "author": {
+                "name": "shameer"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-03-19T22:34:34+05:30",
+            "date_modified": "2021-03-19T22:34:34+05:30"
+        }
+    ]
+}

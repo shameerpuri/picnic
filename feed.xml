@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>picnic.shagun paradise.com</title>
+    <link href="https://shameerpuri.github.io/picnic/feed.xml" rel="self" />
+    <link href="https://shameerpuri.github.io/picnic" />
+    <updated>2021-03-19T22:34:52+05:30</updated>
+    <author>
+        <name>shameer</name>
+    </author>
+    <id>https://shameerpuri.github.io/picnic</id>
+
+    <entry>
+        <title>Packages</title>
+        <author>
+            <name>shameer</name>
+        </author>
+        <link href="https://shameerpuri.github.io/picnic/packages.html"/>
+        <id>https://shameerpuri.github.io/picnic/packages.html</id>
+
+        <updated>2021-03-19T22:34:52+05:30</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Sites</title>
+        <author>
+            <name>shameer</name>
+        </author>
+        <link href="https://shameerpuri.github.io/picnic/sites.html"/>
+        <id>https://shameerpuri.github.io/picnic/sites.html</id>
+
+        <updated>2021-03-19T22:34:34+05:30</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
